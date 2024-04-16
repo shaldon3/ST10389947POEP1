@@ -1,0 +1,14 @@
+C:\Users\Shaldon\source\repos\RecipeApp\RecipeApp\bin\Debug\net8.0\RecipeApp.exe
+C:\Users\Shaldon\source\repos\RecipeApp\RecipeApp\bin\Debug\net8.0\RecipeApp.deps.json
+C:\Users\Shaldon\source\repos\RecipeApp\RecipeApp\bin\Debug\net8.0\RecipeApp.runtimeconfig.json
+C:\Users\Shaldon\source\repos\RecipeApp\RecipeApp\bin\Debug\net8.0\RecipeApp.dll
+C:\Users\Shaldon\source\repos\RecipeApp\RecipeApp\bin\Debug\net8.0\RecipeApp.pdb
+C:\Users\Shaldon\source\repos\RecipeApp\RecipeApp\obj\Debug\net8.0\RecipeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaldon\source\repos\RecipeApp\RecipeApp\obj\Debug\net8.0\RecipeApp.AssemblyInfoInputs.cache
+C:\Users\Shaldon\source\repos\RecipeApp\RecipeApp\obj\Debug\net8.0\RecipeApp.AssemblyInfo.cs
+C:\Users\Shaldon\source\repos\RecipeApp\RecipeApp\obj\Debug\net8.0\RecipeApp.csproj.CoreCompileInputs.cache
+C:\Users\Shaldon\source\repos\RecipeApp\RecipeApp\obj\Debug\net8.0\RecipeApp.dll
+C:\Users\Shaldon\source\repos\RecipeApp\RecipeApp\obj\Debug\net8.0\refint\RecipeApp.dll
+C:\Users\Shaldon\source\repos\RecipeApp\RecipeApp\obj\Debug\net8.0\RecipeApp.pdb
+C:\Users\Shaldon\source\repos\RecipeApp\RecipeApp\obj\Debug\net8.0\RecipeApp.genruntimeconfig.cache
+C:\Users\Shaldon\source\repos\RecipeApp\RecipeApp\obj\Debug\net8.0\ref\RecipeApp.dll
